@@ -8,4 +8,4 @@
 # script is sourced, the variable $dir must contain the
 # full path name of this file's directory.
 
-package ifneeded stcrestapi 0.3 [list source [file join $dir stc_rest_api.tcl]]
+package ifneeded stcrestapi 0.6 [list source [file join $dir stc_rest_api.tcl]]
